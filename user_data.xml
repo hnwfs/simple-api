@@ -1,0 +1,5 @@
+<users>
+    <user id="1" name="Norbert" age="38" url="http://lineo.hu"/>
+    <user id="2" name="Ilona" age="50" url="none"/>
+    <user id="3" name="Kristof" age="28" url="http://prog.hu"/>
+</users>
