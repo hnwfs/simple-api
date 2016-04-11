@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-import cgi, cgitb
 import web
 import xml.etree.ElementTree as ET
 
