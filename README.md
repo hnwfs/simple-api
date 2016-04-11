@@ -5,6 +5,9 @@ one for accessing all users and one for accessing individual users:
 
 usage:  python app.py port_num
 
+
 test in browser:
+
+
 http://localhost:port_num/users  
 http://localhost:port_num/users/{id}
